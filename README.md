@@ -1,0 +1,4 @@
+holocoin
+========
+
+holographic crypto-currency
