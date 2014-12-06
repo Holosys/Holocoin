@@ -1,4 +1,4 @@
-holocoin
+Holocoin
 ========
 
 holographic crypto-currency
