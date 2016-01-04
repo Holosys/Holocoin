@@ -6,7 +6,7 @@ http://www.holocoin.net
 
 #ABOUT
 
-Holocoin is a token cryptocurrency designed to operate as a method and unit of value exchange within the HOLOSYS OS project, and other associated network projects: https://github.com/miquael/HOLOSYS
+Holocoin is a token cryptocurrency designed to operate as a method and unit of value exchange within the HOLOSYS project, and other associated network projects: https://github.com/miquael/HOLOSYS
 
 • Peer-to-peer, decentralized, distributed, and autonomous design.
 
